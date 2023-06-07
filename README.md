@@ -7,11 +7,11 @@ Le second joueur doit alors deviner cette combinaison. A chaque proposition, des
 donnés au second joueur pour l’aider.
 
 Ces indices sont :
-- Si le caractère est bleu (couleur par défaut), alors ce caractère est bien dans la 
+- Si le caractère est bleu, alors ce caractère est bien dans la 
 combinaison, mais pas à sa bonne place.
-- Si le caractère est vert (couleur par défaut), alors ce caractère est dans la combinaison, 
+- Si le caractère est vert, alors ce caractère est dans la combinaison, 
 et à la bonne place.
-- Si le caractère est resté gris (couleur par défaut), alors ce caractère n’est pas dans la 
+- Si le caractère est resté gris, alors ce caractère n’est pas dans la 
 combinaison.
 
 Le joueur qui a conçu la combinaison secrète gagne si son adversaire ne trouve pas la 
