@@ -1,6 +1,6 @@
 # SAE_Mastermind
 
-Cette application a pour rôle de simuler des parties de Mastermind. Les règles du jeu 
+Cette application a pour rôle de simuler des parties de Mastermind en langage VB.NET. Les règles du jeu 
 sont simples, deux joueurs doivent s’affronter. Le premier joueur doit élaborer une 
 combinaison difficilement déchiffrable à l’aide de caractères sans la dévoiler à l’autre joueur. 
 Le second joueur doit alors deviner cette combinaison. A chaque proposition, des indices sont 
