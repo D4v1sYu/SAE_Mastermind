@@ -23,9 +23,10 @@ Options :
 
 Exemple :
 -
-J1 doit entrer une combinaison en 5 caractères :
-*J1 : #$$@£*
-J2 :
+J1 doit entrer une combinaison en 5 caractères :  
+*J1 : #$$@£*  
+*J2 : $#%@$*  
+Résultat : -$
 
 En pratique :
 -
