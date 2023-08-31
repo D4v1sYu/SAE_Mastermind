@@ -23,10 +23,11 @@ Options :
 
 Exemple :
 -
+'''diff
 J1 doit entrer une combinaison en 5 caractères :  
 *J1 : #$$@£*  
 *J2 : $#%@$*  
-Résultat : -$
+Résultat :
 
 En pratique :
 -
