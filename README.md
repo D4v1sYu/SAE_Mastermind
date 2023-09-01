@@ -23,11 +23,16 @@ Options :
 
 Exemple :
 -
-'''diff
+```diff
+Liste des caracères : # $ £ % @
 J1 doit entrer une combinaison en 5 caractères :  
-*J1 : #$$@£*  
-*J2 : $#%@$*  
+*J1 : # $ $ @ £*  
+*J2 : $ # % @ $*
+Code couleur : Absent Présent +Bien placé 
 Résultat :
+```
+
+
 
 En pratique :
 -
