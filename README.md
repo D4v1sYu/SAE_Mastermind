@@ -23,15 +23,22 @@ Options :
 
 Exemple :
 -
-```diff
-Liste des caracères : # $ £ % @
-J1 doit entrer une combinaison en 5 caractères :  
-*J1 : # $ $ @ £*  
-*J2 : $ # % @ $*
-Code couleur : Absent Présent +Bien placé 
-Résultat :
-```
 
+Liste des caracères : § € £ ¥ @  
+Code couleur : $\textcolor{grey}{\textsf{Absent}}$ $\textcolor{blue}{\textsf{Présent}}$ $\textcolor{green}{\textsf{Bien placé}}$  
+
+J1 doit entrer une combinaison en 5 caractères :  
+*J1 : § € € @ £*  
+
+J2 doit trouver la combinaison pour gagner :  
+*J2 : € § ¥ @ €*  
+T1 : $\textcolor{blue}{\textsf{€ §}}$ $\textcolor{grey}{\textsf{¥}}$ $\textcolor{green}{\textsf{@}}$ $\textcolor{blue}{\textsf{€}}$  
+*J2 : § € @* $\textcolor{green}{\textsf{@}}$ *@*  
+T2 : $\textcolor{green}{\textsf{§ €}}$ $\textcolor{blue}{\textsf{@}}$ $\textcolor{green}{\textsf{@}}$ $\textcolor{blue}{\textsf{@}}$  
+*J2 :* $\textcolor{green}{\textsf{§ €}}$ *€* $\textcolor{green}{\textsf{@}}$ *£*  
+T3 : $\textcolor{green}{\textsf{§ € € @ £}}$
+
+J2 a trouvé en 3 tours et marque 1 point
 
 
 En pratique :
