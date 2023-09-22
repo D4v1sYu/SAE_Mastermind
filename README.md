@@ -20,6 +20,13 @@ maximum 15 propositions.
 
 Options :
 -
+Si l’utilisateur le souhaite, il peut modifier certains parametres de jeu liées aux parties. 
+Des options tels que :
+- Le nombre de caracteres jouables
+- La longueur de la combinaison à chercher
+- Personnalisation des couleurs
+- Choix de la limite de proposition
+- Choix de la limite de temps
 
 Exemple :
 -
