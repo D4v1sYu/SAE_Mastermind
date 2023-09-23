@@ -50,6 +50,9 @@ J2 a trouvé en 3 tours et marque 1 point
 
 En pratique :
 -
+À chaque partie, l’application sauvegarde le nom, le score, le meilleur temps pour deviner une combinaison, le nombre de parties jouées en tant que premier joueur, 
+ainsi qu’en tant que second joueur et le cumul du temps passé à tenter de deviner des combinaisons pour chaque joueur. 
+Ces données sont enregistrées dans un fichier pour pouvoir etre affiché lors de prochain lancement de programme.
 
 Conclusion :
 -
