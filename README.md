@@ -50,9 +50,20 @@ J2 a trouvé en 3 tours et marque 1 point
 
 En pratique :
 -
-À chaque partie, l’application sauvegarde le nom, le score, le meilleur temps pour deviner une combinaison, le nombre de parties jouées en tant que premier joueur, 
-ainsi qu’en tant que second joueur et le cumul du temps passé à tenter de deviner des combinaisons pour chaque joueur. 
-Ces données sont enregistrées dans un fichier pour pouvoir etre affiché lors de prochain lancement de programme.
+Des données sont enregistrées dans un fichier pour pouvoir etre affiché lors de prochain lancement de programme.
+À chaque partie, l’application sauvegarde :
+- Le nom et le score
+- Le meilleur temps pour deviner une combinaison
+- Le nombre de parties jouées en tant que premier joueur, ainsi qu’en tant que deuxieme joueur
+- Le cumul du temps passé à tenter de deviner des combinaisons pour chaque joueur
+
+Un formulaire dédié permet la visualisation de ses données. 
+On y affiche toutes les statistiques des joueurs, et suite à cela l'utilsateur a la possibilité de trier selon des criteres, tels que :
+- Alphabétique
+- Meilleur score
+- Temps total
+- etc
 
 Conclusion :
 -
+C'est mon premier projet de groupe en langage VB.Net, je me suis vraiment beaucoup investi dans l'aspect fonctionnel de l'applicatif, c'est-a-dire plus back-end.
