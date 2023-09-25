@@ -69,6 +69,7 @@ Conclusion :
 C'est mon premier projet de groupe en langage VB.Net, je me suis vraiment beaucoup investi dans l'aspect fonctionnel de l'applicatif, c'est-a-dire plus back-end.
 J'ai eu l'opportunité de travailler avec des personnes de confiance, il a toujours été tres dur pour moi de ceder une partie de mon code.
 Grace à ce projet, j'ai appris à mieux simplifier et commenter chaque partie de mon code, à faire des rapports réguliers lors de l'avancement du projet.  
+
 Cependant, à défaut d'avoir une assez bonne communication, nous avons quand meme du mal à standardiser nos bouts de code.
 Évidemment, chacun a sa propre maniere de programmer, mais des détails tels que la police d'ecriture, la taille des boutons, le choix des couleurs, 
 tout le design de la page en général auraient pu etre meilleur avec un style unifié.
